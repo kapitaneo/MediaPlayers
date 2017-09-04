@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayers", "MediaPlayers\MediaPlayers.csproj", "{5C3937ED-141B-4A8A-974F-47CA6B24413A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayers.Core", "MediaPlayers.Core\MediaPlayers.Core.csproj", "{B4C6BB33-92CD-4E54-8B43-BAF0E9EA907B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3937ED-141B-4A8A-974F-47CA6B24413A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3937ED-141B-4A8A-974F-47CA6B24413A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3937ED-141B-4A8A-974F-47CA6B24413A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3937ED-141B-4A8A-974F-47CA6B24413A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C6BB33-92CD-4E54-8B43-BAF0E9EA907B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C6BB33-92CD-4E54-8B43-BAF0E9EA907B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C6BB33-92CD-4E54-8B43-BAF0E9EA907B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C6BB33-92CD-4E54-8B43-BAF0E9EA907B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
